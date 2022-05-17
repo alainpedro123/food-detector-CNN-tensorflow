@@ -2,7 +2,7 @@
 
 By means of TensorFlow with a special kind of neural network, Convolutional Neural Networks (CNN) that can be used for computer vision (detecting patterns in visual data), we will create a Model that Classify whether a picture of food contains pizza 🍕 or steak 🥩.
 
-Steps
+## Steps:
 1. Generating the dataset
 2. Inspecting the data
 	- Image Preprocessing
@@ -13,7 +13,7 @@ Steps
 
 
 
-## Few things we could try to continue to improve our model:
+### Few things we could try to continue to improve our model:
 1. Increase the number of model layers (e.g. add more convolutional layers).
 2. Increase the number of filters in each convolutional layer (e.g. from 10 to 32, 64, or 128, these numbers aren't set in stone either, they are usually found through trial and error).
 3. Train for longer (more epochs).
